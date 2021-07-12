@@ -1,5 +1,7 @@
 # StateNotifierProvider & ref.watch
 
+![ED010615-5FB5-439E-9522-DA6D80AD59A8_1_201_a](https://user-images.githubusercontent.com/73986840/125218802-9d167f80-e2fe-11eb-880e-afe0629fd059.jpeg)
+
 ## 参考
 【記事①】Riverpodの基本的な使い方を整理してみる<br>
 【URL】https://zenn.dev/umatoma/articles/2026ef43bdb0f4<br>
