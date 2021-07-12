@@ -1,8 +1,12 @@
 # StateNotifierProvider & ref.watch
 
 ## 参考
-【記事】RiverpodでStateNotifierProviderを使うときは、0.14系からの記事を参照しましょう<br>
+【記事①】Riverpodの基本的な使い方を整理してみる<br>
+【URL】https://zenn.dev/umatoma/articles/2026ef43bdb0f4<br>
+
+【記事②】RiverpodでStateNotifierProviderを使うときは、0.14系からの記事を参照しましょう<br>
 【URL】https://zenn.dev/suba/articles/5e6139e4ae990e<br>
+
 
 ## Getting Started
 
