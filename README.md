@@ -1,6 +1,8 @@
-# ref_test
+# StateNotifierProvider & ref.watch
 
-A new Flutter application.
+## 参考
+【記事】RiverpodでStateNotifierProviderを使うときは、0.14系からの記事を参照しましょう<br>
+【URL】https://zenn.dev/suba/articles/5e6139e4ae990e<br>
 
 ## Getting Started
 
